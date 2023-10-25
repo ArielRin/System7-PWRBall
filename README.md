@@ -1,7 +1,18 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is a [Next.js](https://nextjs.org/) project. Launched on Netlify!
 
-YOU CAN VIEW THE SITE HERE: 
-https://solidity-lottery-ruddy.vercel.app/
+YOU CAN VIEW THE PwrBall HERE:
+https://pwrball.system7.io/
+
+100PWR Per ticket drawn daily
+no max ticket purchase
+
+80% of the pot goes to the winner
+20% goes to the treasury for the following
+Marketing
+Development
+Future Jackpots.
+Sys7 Capital (Pre Launch).
+Sys7 tokens buy and burn.
 
 ## Getting Started
 
@@ -30,8 +41,5 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Cheyne Dapp Creation and Solidity Development
